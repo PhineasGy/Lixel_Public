@@ -1,5 +1,6 @@
-[Version Control] 
-% YYYYMMDDnn (nn 同一天不同版本): 0
+[Version Control]
+% YYYYMMDDnn (nn 同一天不同版本)
+
 [LRoV-class]
 example_101: 2025122901
 example_create_27BLP_X_II: 2025122901
@@ -13,4 +14,5 @@ example_getM00: 2025122901
 example_limited_system_width: 2025122901
 example_ML_sawtooth_removal: 2025122901
 example_VZA: 2025122901
+
 [LT_GY]
