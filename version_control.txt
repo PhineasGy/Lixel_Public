@@ -1,4 +1,6 @@
-[Version Control] % YYYYMMDDnn (nn 同一天不同版本): 0
+[Version Control] 
+% YYYYMMDDnn (nn 同一天不同版本): 0
+[LRoV-class]
 example_101: 2025100101
 example_create_27BLP_X_II: 2025122901
 example_create_II: 2025122901
