@@ -15,4 +15,7 @@ example_limited_system_width: 2025122901
 example_ML_sawtooth_removal: 2025122901
 example_VZA: 2025122901
 
+[LRoV-design-rule]
+DR_example_1_design_pool: 2025122901
+
 [LT_GY]
