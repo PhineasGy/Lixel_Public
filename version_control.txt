@@ -25,7 +25,7 @@ DR_example_5_create_II_general_check: 2025122901
 DR_example_6_VZA_general_check: 2025122901
 DR_example_6_VZA_general_check: 2025122901
 DR_example_7_design_VAgrid: 2025122901
-DR_example_8_design_XYgrid: 2025122901
+DR_example_8_design_XYgrid: 2025123001
 
 [LT_GY]
 example_create_coating_file: 2025123001
