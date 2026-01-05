@@ -1,6 +1,10 @@
 [Version Control]
-% YYYYMMDDnn (nn 同一天不同版本)
+% Project (使用最終 Hash 控制)
+LRoV: 5d8644c0077e02dd57bb628de1dcf142
+LT_GY: 398a7be669f9e9bf9fa72aafc7d3b77f
 
+% Example (使用日期與版本號進行版本控制)
+% YYYYMMDDnn (nn 同一天不同版本)
 [LRoV-class]
 example_101: 2025122901
 example_create_27BLP_X_II: 2025122901
