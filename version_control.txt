@@ -2,6 +2,7 @@
 % Project (使用最終 Hash 控制)
 LRoV: 5d8644c0077e02dd57bb628de1dcf142
 LT_GY: d4a9cbf750cced0f6b0ab54d4b5ce859
+Tool: 2986f7a545569359ad26dfdc11fc30ef
 
 % Example (使用日期與版本號進行版本控制)
 % YYYYMMDDnn (nn 同一天不同版本)
