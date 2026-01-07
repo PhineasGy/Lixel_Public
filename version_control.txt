@@ -48,3 +48,4 @@ example_LT_reconstrcution_32_8K: 2025123001
 [Tool]
 VZA_curve: 2025123101
 VZA_curve_multiplefile: 2025123101
+VZA_curve_from_CP_autoloop: 2026010701
