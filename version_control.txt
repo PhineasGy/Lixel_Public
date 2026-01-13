@@ -6,7 +6,7 @@ Tool: e41ccf32c75253b1a2a4963ad95b22f0
 
 % Example (使用日期與版本號進行版本控制)
 % YYYYMMDDnn (nn 同一天不同版本)
-[LRoV-class]
+% [LRoV-class]
 example_101: 2025122901
 example_create_27BLP_X_II: 2025122901
 example_create_II: 2025122901
@@ -20,7 +20,7 @@ example_limited_system_width: 2025122901
 example_ML_sawtooth_removal: 2025122901
 example_VZA: 2025123101
 
-[LRoV-design-rule]
+% [LRoV-design-rule]
 DR_example_1_design_pool: 2025122901
 DR_example_2_create_II_check_failnumber: 2025122901
 DR_example_3_design_CP: 2025122901
@@ -31,7 +31,7 @@ DR_example_6_VZA_general_check: 2025123101
 DR_example_7_design_VAgrid: 2025122901
 DR_example_8_design_XYgrid: 2025123001
 
-[LT_GY]
+% [LT_GY]
 example_create_coating_file: 2025123001
 example_LT_13_grid_effect: 2025123001
 example_LT_ambient_light_ILL: 2025123001
@@ -45,7 +45,11 @@ example_plot_data: 2025123001
 example_plot_light_distribution_curve: 2025123001
 example_LT_reconstrcution_32_8K: 2025123001
 
-[Tool]
+% [Tool]
 VZA_curve: 2025123101
 VZA_curve_multiplefile: 2025123101
 VZA_curve_from_CP_autoloop: 2026010701
+
+% [Other]
+example_LLCoS: 2026011301
+example_MLACoS: 2026011301
