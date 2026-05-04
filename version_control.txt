@@ -1,7 +1,7 @@
 [Version Control]
 % Project (使用最終 Hash 控制)
-% LRoV: V26.03
-LRoV: 1d9d56b7580193fd4e00fcbaa9eda9cb
+% LRoV: V26.04
+LRoV: 6c10aa31d58d27cab7ec7ec919e6c855
 % LT_GY: V2.0
 LT_GY: bf1616b5499fca4c4bc5c875e839d078
 % Tool: V2026033002
