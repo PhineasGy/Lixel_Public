@@ -55,5 +55,5 @@ VZA_curve_multiplefile: 2026012901
 CVZA_curve: 2026020301
 
 % [Other]
-example_LLCoS: 2026011401
+example_LLCoS: 2026061601
 example_MLACoS: 2026012201
