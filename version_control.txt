@@ -4,8 +4,8 @@
 LRoV: 08b10295d7cb6408fc96274110168ee7
 % LT_GY: V26.06
 LT_GY: 05a8b686855d815d7756ed4c3cc20b99
-% Tool: V26.06
-Tool: 1a31b22449cb8e87282b27a0114c32b6
+% Tool: V26.07
+Tool: 11841bc4fb287c5e6daa335d3b350778
 
 % Example (使用日期與版本號進行版本控制)
 % YYYYMMDDnn (nn 同一天不同版本)
