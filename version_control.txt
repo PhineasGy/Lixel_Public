@@ -6,6 +6,7 @@ LRoV: 08b10295d7cb6408fc96274110168ee7
 LT_GY: 569aa29d0a95517a0041721c5eabcb95
 % Tool: V26.07
 Tool: 11841bc4fb287c5e6daa335d3b350778
+% GY Tool Entry: main
 
 % Example (使用日期與版本號進行版本控制)
 % YYYYMMDDnn (nn 同一天不同版本)
@@ -22,7 +23,7 @@ example_limited_system_width: 2025122901
 example_ML_sawtooth_removal: 2025122901
 example_VZA: 2025123101
 example_import_tb_to_LT: 2026012301
-example_getAA: 2026070202
+example_getAA: 2026081301
 
 % [LRoV-design-rule]
 DR_example_1_design_pool: 2026041701
