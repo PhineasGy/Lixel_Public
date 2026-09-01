@@ -7,7 +7,7 @@ LT_GY: 17b72be1e5390f35448e42f9fafda017
 % Tool: V26.08
 Tool: 94cc003274107afa4a95d3b0a15def0d
 % GY Tool Entry: V26.08
-GY_Tool_GUI: 6674c1221ee98d6e143d4bab0c2a95b1
+Entry: 6674c1221ee98d6e143d4bab0c2a95b1
 
 
 % Example (使用日期與版本號進行版本控制)
