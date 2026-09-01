@@ -1,11 +1,14 @@
 [Version Control]
 % Project (使用最終 Hash 控制)
-% LRoV: V26.06
-LRoV: 08b10295d7cb6408fc96274110168ee7
-% LT_GY: V26.07
-LT_GY: 569aa29d0a95517a0041721c5eabcb95
-% Tool: V26.07
-Tool: 11841bc4fb287c5e6daa335d3b350778
+% LRoV: V26.08
+LRoV: 5853accadc0a8f957f75ed22b9e0a205
+% LT_GY: V26.08
+LT_GY: 17b72be1e5390f35448e42f9fafda017
+% Tool: V26.08
+Tool: 94cc003274107afa4a95d3b0a15def0d
+% GY Tool Entry: V26.08
+GY_Tool_GUI: 6674c1221ee98d6e143d4bab0c2a95b1
+
 
 % Example (使用日期與版本號進行版本控制)
 % YYYYMMDDnn (nn 同一天不同版本)
